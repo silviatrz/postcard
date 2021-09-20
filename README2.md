@@ -1,4 +1,4 @@
-# ![](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
+# ![4Geeks Logo](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
 Who does not like postcards? This is one of your first exercises (if not the first) and it's fun and relatively easy :)
 
