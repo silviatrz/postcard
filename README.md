@@ -1,4 +1,4 @@
-# ![](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
+# ![4Geeks Logo](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
 ## English
 Postcard exercise for 4Geeks Academy Full-Stack Developer Bootcamp.
